@@ -1,0 +1,34 @@
+.img { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    margin-left: 24px;
+    font-size: 4em;
+    margin-bottom: 0;
+}
+
+h2{
+    margin-left: 24px;
+    font-size: 3em;
+    margin-bottom: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.textFlex {
+    margin-top: 75px;
+}
+
+.coins {
+    margin-left: 50px;
+}
+
+body { 
+    background-image: url("images/swiss-flag-wide.png");
+    background-repeat: repeat;
+}
